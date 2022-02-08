@@ -1,6 +1,6 @@
 body {
 	background-color: #212529;
-    	transform: scale(0.8) translate(0.8, 0.8);
+    	transform: scale(0.8) translate(80%, 80%);
 }
 
 #canvas {
